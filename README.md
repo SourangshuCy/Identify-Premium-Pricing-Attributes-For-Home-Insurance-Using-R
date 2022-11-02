@@ -6,7 +6,7 @@ Task:
 
 1.Reading our dataset into a dataframe on R. We will then go on to clean the data and identify which data columns would be most relevant for us to identify factors that influence the price of a home insurance premium. These columns will have data that indicates how likely it is for a house to suffer damage and hence become a claimant for the insurance.
 
-2.The next task in this component is to subset the data. Subsetting data simply means dividing your data into smaller sets as per your requirement. For example, you can create smaller sets of data based on the type of property or the risk rating of a house. Subsetting your data makes it easier for you to plot connectns between various variables and efficiently generate insights.
+2.The next task in this component is to subset the data. Subsetting data simply means dividing your data into smaller sets as per your requirement. For example, you can create smaller sets of data based on the type of property or the risk rating of a house. Subsetting data makes it easier for you to plot connections between various variables and efficiently generate insights.
 
 3.plot the findings from subsetting the data on R. identify both - the characteristics of a house that can drive up the price of premium and the characteristics of customers who are likelier to default on their payments.
 
